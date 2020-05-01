@@ -43,6 +43,7 @@
 EMV(t) = (1-w) * ((1-w) * EMV(t-2) + w * Price(t-1)) + w * Price(t)
 
 <계산식> <br>
+
 <img src="img/formula_2.png" width="300">
 
 > * N이 작을수록 최근 데이터를 반영하는 비율이 높아진다. 
